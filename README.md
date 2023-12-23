@@ -21,6 +21,10 @@
 ![](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=White)
 ![](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### Tools & SNS
+[![Tech Blog Badge](http://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@sksmsfbrjs/)](https://soo-vely-dev.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryu7844@gmail.com)](mailto:ryu7844@gmail.com)
+
 ---
 [![](https://github-readme-stats.vercel.app/api?username=U-Geon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksmsfbrjs)](https://solved.ac/sksmsfbrjs/)
