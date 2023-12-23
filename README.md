@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Tools & SNS
-[![Tech Blog Badge](http://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@sksmsfbrjs/)](https://soo-vely-dev.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@sksmsfbrjs/)](https://velog.io/@sksmsfbrjs/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryu7844@gmail.com)](mailto:ryu7844@gmail.com)
 
 ---
