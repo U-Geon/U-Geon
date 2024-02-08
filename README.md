@@ -24,7 +24,9 @@
 
 ### Tools & SNS
 [![Tech Blog Badge](http://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@sksmsfbrjs/)](https://velog.io/@sksmsfbrjs/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryu7844@gmail.com)](mailto:ryu7844@gmail.com)
+(ryu7844@gmail.com)
 
 ---
 [![](https://github-readme-stats.vercel.app/api?username=U-Geon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
