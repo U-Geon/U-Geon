@@ -26,8 +26,8 @@
 
 ### Tools & SNS
 [![Tech Blog Badge](http://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@sksmsfbrjs/)](https://velog.io/@sksmsfbrjs/)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryu7844@gmail.com)](mailto:ryu7844@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-ff5a4a?style=flat-square&logo=Tistory&logoColor=white&link=https://sksmsfbrjs51.tistory.com/)](https://sksmsfbrjs51.tistory.com/)
 
 
 ---
