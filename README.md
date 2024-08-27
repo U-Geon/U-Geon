@@ -1,17 +1,43 @@
-## 🖥 Projects
-　　　기간　　　　|　　　　　　　　　　　　　　　내용<br>
-2023.09 ~ 2023.11　|　우리 아이 안심 동행 서비스 "WithMe" FrontEnd 개발<br>
-2023.11 ~ 2024.01　|　국민대학교 웹 학술동아리 <WINK> 동아리방 자리 예약 서비스 "605-1" BackEnd 개발<br>
-2023.12 ~ 2023.12　|　제 2회 COKOTHON 과거의 날짜에 대한 추억 공유 게시판 서비스 "그날그날" BackEnd 개발<br>
-2024.03 ~ 2024.06　|　국민대학교 알파프로젝트 LLM 기반 사용자 맞춤 음료 추천 플랫폼 "DLINK" BackEnd 개발<br>
-2024.07 ~ 2024.08　|　국민대학교 일반 근로 알바 지원 서비스 "WSSRS" BackEnd 개발<br>
+<div align='center' style={{width: 394px }}>
+
+<h2 align='center'>📍 Experience & Social Activity</h2>
+
+| 소속 및 단체 | 활동 기간 | 내용 |
+| --- | --- | --- |
+| 국민대학교 | 2020.03~ | 국민대학교 소프트웨어학부 재학 |
+| 윙크(WINK) | 2023.03 ~ | 국민대학교 소프트웨어융합대학 소속 웹 학술 동아리(WINK) 부원 |
+| 윙크(WINK) | 2024.01 ~ 2025.01 | 국민대학교 소프트웨어융합대학 소속 웹 학술 동아리(WINK) 부회장 |
+| 커넥트(Connect) | 2024.01 ~ 2025.01 | 국민대학교 소프트웨어융합대학 제8대 학생회 Connect 기획부 부원 |
+
+
+<div align='center' style={{width: 394px }}>
+  
+<h2 align='center'>🖥 Projects </h2>
+
+| 기간 | 내용 |
+| --- | --- |
+| 2023.09 ~ 2023.11 | 우리 아이 안심 동행 서비스 "WithMe" FrontEnd 개발 |
+| 2023.11 ~ 2024.01 | 국민대학교 웹 학술동아리 <WINK> 동아리방 자리 예약 서비스 "605-1" BackEnd 개발 |
+| 2023.12 ~ 2023.12 | [숙명여대 국민대 연합 해커톤] 제 2회 COKOTHON 과거의 날짜에 대한 추억 공유 게시판 서비스 "그날그날" BackEnd 개발 |
+| 2024.03 ~ 2024.06  | 국민대학교 알파프로젝트 LLM 기반 사용자 맞춤 음료 추천 플랫폼 "DLINK" BackEnd 개발 |
+| 2024.07 ~ 2024.08  | 국민대학교 일반 근로 알바 지원 서비스 "WSSRS" BackEnd 개발 |
+
+<h2 align='center'>🏆Awards</h2>
+
+`2023/12/27` 제 2회 코딧 X 코스 연합 해커톤 'COKOTHON' - 우수상 수상
 
 
 ## 📚 Tech Skills
 ### ⚒ Backend
 ![](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![](https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
+![ec2](https://img.shields.io/badge/aws%20ec2-FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![s3](https://img.shields.io/badge/aws%20s3-569A31.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
 
 ### ⚒ Frontend
 ![](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
