@@ -23,7 +23,7 @@
 | 2024.07 ~ 2024.08 | 국민대학교 일반 근로 알바 지원 서비스 "WSSRS" BackEnd 개발 |
 | 2024.08 ~ 2024.08 | [국민대 웹 학술 동아리 WINK 유저 페르소나 기반 웹 해커톤] 한국 거주 유학생들을 위한 한국 문화 커뮤니티 플랫폼 "HanQu" FrontEnd 개발 |
 | 2024.09 ~ 2024.09 | [숙명여대 국민대 연합 해커톤] 제 3회 COKOTHON 나 사용법 감정 일기 "Feel-In" FrontEnd 개발 |
-| 2024.07 ~ 2024.11 | Mermaid 모델을 활용한 회의 지원 플랫폼 서비스 "Clerker" BackEnd 개발 |
+| 2024.07 ~ 2024.11 | Mermaid 모델을 활용한 회의 내용 요약 플랫폼 서비스 "Clerker" BackEnd 개발 |
 
 
 <h2 align='center'>🏆Awards</h2>
