@@ -8,8 +8,10 @@
 | 윙크(WINK) | 2023.03 ~ | 국민대학교 소프트웨어융합대학 소속 웹 학술 동아리(WINK) 부원 |
 | 윙크(WINK) | 2024.01 ~ 2025.01 | 국민대학교 소프트웨어융합대학 소속 웹 학술 동아리(WINK) 부회장 |
 | 커넥트(Connect) | 2024.01 ~ 2025.01 | 국민대학교 소프트웨어융합대학 제8대 학생회 Connect 기획부 부원 |
-| Naver Boost Camp | 2025.06.23 ~ 2025.07.04 | 2025 네이버 부스트 캠프 웹 풀스택 베이직 활동 |
-| Naver Boost Camp | 2025.07.14 ~ 2025.08.08 | 2025 네이버 부스트 캠프 웹 풀스택 챌린지 활동 |
+| Naver BoostCamp | 2025.06.23 ~ 2025.07.04 | 2025 Naver BoostCamp 10기 웹모바일 베이직 과정 |
+| Naver BoostCamp | 2025.07.14 ~ 2025.08.08 | 2025 Naver BoostCamp 10기 웹모바일 챌린지 과정 |
+| Naver BoostCamp | 2025.08.18 ~ 2026.02.06 | 2025 Naver BoostCamp 10기 웹모바일 멤버십 과정 |
+
 
 
 <div align='center' style={{width: 394px }}>
