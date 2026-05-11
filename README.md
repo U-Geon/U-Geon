@@ -11,6 +11,7 @@
 | Naver BoostCamp | 2025.06.23 ~ 2025.07.04 | 2025 Naver BoostCamp 10기 웹풀스택 베이직 과정 |
 | Naver BoostCamp | 2025.07.14 ~ 2025.08.08 | 2025 Naver BoostCamp 10기 웹풀스택 챌린지 과정 |
 | Naver BoostCamp | 2025.08.18 ~ 2026.02.06 | 2025 Naver BoostCamp 10기 웹풀스택 멤버십 과정 |
+| 코더랜드 | 2025.03 ~ | 코더랜드 1:1 코딩 튜터 (python, Scratch, ENTRY) | 
 
 
 
